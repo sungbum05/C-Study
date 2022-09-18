@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac263190-64fa-4caf-800c-e77609027ef3": {
+      "ProjectGuid": "ac263190-64fa-4caf-800c-e77609027ef3",
+      "DisplayName": "DJ_HomeWork",
+      "ColorIndex": 0
+    },
+    "abf3fa37-d068-4212-9256-c8178ba1f3a2": {
+      "ProjectGuid": "abf3fa37-d068-4212-9256-c8178ba1f3a2",
+      "DisplayName": "PrintMain",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

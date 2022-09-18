@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7472d142-cce2-4125-974f-b20bd8b695dc": {
+      "ProjectGuid": "7472d142-cce2-4125-974f-b20bd8b695dc",
+      "DisplayName": "CSharp_Study",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "50209f5d-b6d2-4b7f-bcdb-5b42e4a2ae28": {
+      "ProjectGuid": "50209f5d-b6d2-4b7f-bcdb-5b42e4a2ae28",
+      "DisplayName": "Delegate",
+      "ColorIndex": 1
+    },
+    "7889de48-5bdc-4e15-8f20-685ab436bbcd": {
+      "ProjectGuid": "7889de48-5bdc-4e15-8f20-685ab436bbcd",
+      "DisplayName": "BackJoon_10845",
+      "ColorIndex": 2
+    },
+    "81ff6e55-01da-4fa7-b87f-460268268dd2": {
+      "ProjectGuid": "81ff6e55-01da-4fa7-b87f-460268268dd2",
+      "DisplayName": "BackJoon_1920",
+      "ColorIndex": 3
+    },
+    "102c606f-cf5d-4948-94f0-69fe11705cb6": {
+      "ProjectGuid": "102c606f-cf5d-4948-94f0-69fe11705cb6",
+      "DisplayName": "BackJoon_2566",
+      "ColorIndex": 4
+    },
+    "2ee84871-715d-473f-bc9c-1a78ea0c4ab7": {
+      "ProjectGuid": "2ee84871-715d-473f-bc9c-1a78ea0c4ab7",
+      "DisplayName": "BackJoon_2441",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
