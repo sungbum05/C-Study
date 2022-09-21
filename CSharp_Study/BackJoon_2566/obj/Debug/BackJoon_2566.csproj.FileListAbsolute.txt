@@ -6,3 +6,11 @@ F:\포폴폴더\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_
 F:\포폴폴더\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_2566.csproj.CoreCompileInputs.cache
 F:\포폴폴더\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_2566.exe
 F:\포폴폴더\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_2566.pdb
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\bin\Debug\BackJoon_2566.exe.config
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\bin\Debug\BackJoon_2566.exe
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\bin\Debug\BackJoon_2566.pdb
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_2566.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_2566.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_2566.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_2566.exe
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_2566\obj\Debug\BackJoon_2566.pdb

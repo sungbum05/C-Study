@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1331(Silver5)\bin\Debug\BackJoon_1331(Silver5).exe.config
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1331(Silver5)\bin\Debug\BackJoon_1331(Silver5).exe
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1331(Silver5)\bin\Debug\BackJoon_1331(Silver5).pdb
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1331(Silver5)\obj\Debug\BackJoon_1331(Silver5, X).csproj.AssemblyReference.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1331(Silver5)\obj\Debug\BackJoon_1331(Silver5, X).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1331(Silver5)\obj\Debug\BackJoon_1331(Silver5, X).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1331(Silver5)\obj\Debug\BackJoon_1331(Silver5).exe
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1331(Silver5)\obj\Debug\BackJoon_1331(Silver5).pdb

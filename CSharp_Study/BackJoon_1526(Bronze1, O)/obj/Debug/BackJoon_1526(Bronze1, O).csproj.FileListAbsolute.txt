@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1526(Bronze1, O)\bin\Debug\BackJoon_1526(Bronze1, O).exe.config
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1526(Bronze1, O)\bin\Debug\BackJoon_1526(Bronze1, O).exe
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1526(Bronze1, O)\bin\Debug\BackJoon_1526(Bronze1, O).pdb
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1526(Bronze1, O)\obj\Debug\BackJoon_1526(Bronze1, O).csproj.AssemblyReference.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1526(Bronze1, O)\obj\Debug\BackJoon_1526(Bronze1, O).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1526(Bronze1, O)\obj\Debug\BackJoon_1526(Bronze1, O).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1526(Bronze1, O)\obj\Debug\BackJoon_1526(Bronze1, O).exe
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1526(Bronze1, O)\obj\Debug\BackJoon_1526(Bronze1, O).pdb

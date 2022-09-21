@@ -6,3 +6,11 @@ F:\포폴폴더\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_
 F:\포폴폴더\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_1920.csproj.CoreCompileInputs.cache
 F:\포폴폴더\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_1920.exe
 F:\포폴폴더\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_1920.pdb
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\bin\Debug\BackJoon_1920.exe.config
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\bin\Debug\BackJoon_1920.exe
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\bin\Debug\BackJoon_1920.pdb
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_1920.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_1920.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_1920.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_1920.exe
+C:\Users\user\Documents\Fork\CSharp-Study\CSharp_Study\BackJoon_1920\obj\Debug\BackJoon_1920.pdb
