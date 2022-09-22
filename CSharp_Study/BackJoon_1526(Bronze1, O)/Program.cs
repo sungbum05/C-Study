@@ -19,11 +19,21 @@ namespace BackJoon_1526_Bronze1__O_
             for (int i = 1; i <= Cnt; i++)
             {
                 string input = i.ToString();
+                bool Check = true;
+
                 foreach (var item in input)
                 {
-                    chars.Contains<char>(item);
+                    if (chars.Contains<char>(item) == false)
+                        Check = false;
+                }
+
+                if(Check && Max < i)
+                {
+                    Max = i;
                 }
             }
+
+            Console.WriteLine(Max);
         }
     }
 }
