@@ -1,0 +1,5 @@
+﻿  Vector2D.cpp
+C:\Users\user\Documents\Fork\CSharp-Study\DJ_HomeWork\Vector2D\Vector2D.cpp(63,12): warning C4244: '/=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\Fork\CSharp-Study\DJ_HomeWork\Vector2D\Vector2D.cpp(64,12): warning C4244: '/=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\user\Documents\Fork\CSharp-Study\DJ_HomeWork\Vector2D\x64\Debug\Vector2D.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackJoon_2576(Bronze3, O)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackJoon_1526(Bronze1, O)", "BackJoon_1526(Bronze1, O)\BackJoon_1526(Bronze1, O).csproj", "{232DC83D-9AF5-486A-AC40-2854A3B55BB8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C++", "C++", "{0D362A0A-7E65-484F-9D29-B8881A432D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
