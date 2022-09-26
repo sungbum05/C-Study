@@ -90,7 +90,32 @@
       "ProjectGuid": "0383f883-9c5f-46e4-bc23-430e24a43510",
       "DisplayName": "Bronze5_BackJone5337_O",
       "ColorIndex": 0
+    },
+    "ff457a2f-32ec-4377-ac25-0ef796766187": {
+      "ProjectGuid": "ff457a2f-32ec-4377-ac25-0ef796766187",
+      "DisplayName": "Silver5_BackJoon11866_O",
+      "ColorIndex": 1
+    },
+    "8fecda61-09be-4a5e-b257-feef4216913d": {
+      "ProjectGuid": "8fecda61-09be-4a5e-b257-feef4216913d",
+      "DisplayName": "Silver4_BackJoon1018_X",
+      "ColorIndex": 2
+    },
+    "0b9b2781-9ffa-4dfe-9fc4-c67b65bcecf2": {
+      "ProjectGuid": "0b9b2781-9ffa-4dfe-9fc4-c67b65bcecf2",
+      "DisplayName": "Bronze5_BackJoon2338_X",
+      "ColorIndex": 3
+    },
+    "10713998-0327-493d-9003-6b155312346b": {
+      "ProjectGuid": "10713998-0327-493d-9003-6b155312346b",
+      "DisplayName": "Bronze5_BackJoon2420_O",
+      "ColorIndex": 4
+    },
+    "fbb31c94-c459-49e7-8f17-dfc942a85860": {
+      "ProjectGuid": "fbb31c94-c459-49e7-8f17-dfc942a85860",
+      "DisplayName": "Bronze4_BackJoon5596_O",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 6
 }
